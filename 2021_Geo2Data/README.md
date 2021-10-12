@@ -5,6 +5,8 @@ Our goal with these workshops, is not to help you create the next BIG THING, it 
 Additionally, participants will get join a network of aspiring data scientist in experiencing one of the discipline’s
 key rites of passage, hackathons.
 
+Data is provided by [NDIC](https://www.nd.gov/ndic/) with their written permission.
+
 ### Mentors: 
 * John O’Donnell - [GitHub](https://github.com/johnodonnell123), [LinkedIn](https://www.linkedin.com/in/johnodonnell93/) 
 * Altay Sansal - [GitHub](https://github.com/tasansal), [LinkedIn](https://www.linkedin.com/in/tasansal/)

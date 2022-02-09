@@ -1,6 +1,6 @@
 # Description
 
-In this workshop, we look back to some of the more notebooks from the 2019 TGS Salt
+In this workshop, we look back to some of the notebooks from the 2019 TGS Salt
 Identification Challenge. This challenge took place 3 years ago and was the first of its kind for our discipline. 
 You can expect a brief introduction to CNNs, more specifically U-nets, and how they were used to tackle this challenge.
 We will be running through some notebooks in real-time to give you more hands-on experience. When registration closes,

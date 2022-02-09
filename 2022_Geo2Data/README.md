@@ -15,6 +15,7 @@ Competition Terms and Rules Apply: [Rules](https://www.kaggle.com/c/tgs-salt-ide
 * Eduardo Alvarez - [LinkedIn](https://www.linkedin.com/in/eduandalv/)
 
 Workshop introduction material contributed by Eduardo Alvarez.
+
 Reference notebook contributed Altay Sansal.
 
 # Workshop Agenda

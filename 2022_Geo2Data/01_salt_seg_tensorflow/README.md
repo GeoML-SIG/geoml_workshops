@@ -1,3 +1,5 @@
+This directory has the notebook, utility functions, and the presentation PDF from the event.
+
 To run this notebook, we recommend using `conda` with the `conda-forge` channel.
 
 A new `conda` environment can be created by:
